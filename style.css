@@ -1,0 +1,69 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.contenitore {
+  width: 800px;
+  margin: auto;
+  margin-top: 30px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 10px;
+  padding: 50px;
+  box-sizing: border-box;
+}
+
+header, nav {
+  text-align: center;
+}
+
+.logo {
+  width: 150px;
+}
+
+.titolo {
+  color: #0BD904;
+  font-size: 20px;
+}
+
+nav {
+  background-color: #0BD904;
+  padding: 5px;
+}
+
+.nome {
+  color: white;
+  font-size: 15px;
+}
+
+.indicazioni {
+  display: inline;
+}
+
+.carica, .indicazioni {
+  color: lightgray;
+  font-size: 10px;
+}
+
+.rettangolo1 {
+  width: 200px;
+  height: 15px;
+  background-color: #F2AA52;
+  border-radius: 3px;
+}
+
+.rettangolo2 {
+  width: 350px;
+  height: 15px;
+  background-color: #26BF21;
+  border-radius: 3px;
+}
+
+.rettangolo3 {
+  width: 80px;
+  height: 15px;
+  background-color: #BF4545;
+  border-radius: 3px;
+}
